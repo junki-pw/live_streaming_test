@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "877599250862",
+    "firebase_url": "https://instaclone-b0de2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "instaclone-b0de2",
+    "storage_bucket": "instaclone-b0de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877599250862:android:8eb841c9e2f2f3fb71d03f",
+        "android_client_info": {
+          "package_name": "com.programingwani.handaizaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877599250862-umbvhfm0rn0f5mf31shnmu3smdkpep8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSdXW1ttm10iaEbwDlka0WF8O66erE7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877599250862-umbvhfm0rn0f5mf31shnmu3smdkpep8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877599250862-6t9m2tv2r1af422tski7t2ccasel2r89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instaClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877599250862:android:9df3f6cb82a960de71d03f",
+        "android_client_info": {
+          "package_name": "jp.galapo.influ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877599250862-umbvhfm0rn0f5mf31shnmu3smdkpep8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSdXW1ttm10iaEbwDlka0WF8O66erE7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877599250862-umbvhfm0rn0f5mf31shnmu3smdkpep8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877599250862-6t9m2tv2r1af422tski7t2ccasel2r89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instaClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877599250862:android:7e3da2851ba885e671d03f",
+        "android_client_info": {
+          "package_name": "jp.galapo.maki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877599250862-5q4dvhfc0qs5qhb2im37fgub4cpvsaqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.galapo.maki",
+            "certificate_hash": "bf7f9aa5e399e8152a848b82d6d34161d5eed2fe"
+          }
+        },
+        {
+          "client_id": "877599250862-umbvhfm0rn0f5mf31shnmu3smdkpep8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSdXW1ttm10iaEbwDlka0WF8O66erE7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877599250862-umbvhfm0rn0f5mf31shnmu3smdkpep8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877599250862-6t9m2tv2r1af422tski7t2ccasel2r89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instaClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
